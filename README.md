@@ -1,9 +1,9 @@
 # Bicimadprpa
 practica Bicimad
 
-Esta es la práctica Bicimad de Pablo Fernández, Gabriel Alba y Joaquín Velarde.
+This is the Bicimad assignment by Pablo Fernández, Gabriel Alba amd Joaquín Velarde.
 
-En la carpeta datos está la recopilación de todos los datos que hemos obtenido. En la carpeta "programa" están el script .py con el código y una carpeta 
-bicimad_data en la que se deben meter los meses que se quieran evaluar en formato json. 
+In the folder datos we have placed the recopilation of all the data we have obtained. In the folder "programa" we have the script with the code 
+and a subfolder bicimad_data in which the user must put the months in json format he or she wants to analyze. 
 
-El archivo memoria.pdf es la memoria de la práctica, en la que se explica el funcionamiento y objetivo de ésta, y además se analizan los resultados obtenidos.
+the file memoria.pdf is the written part of the project, in which we explain how the code works, its goals, and we analyze the results.
