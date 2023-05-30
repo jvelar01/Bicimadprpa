@@ -1,2 +1,3 @@
-aqui deberia ir la carpeta bicimad_data con los archivos que queramow analizar dentro.
-Desgraciadamente no podemos meterla en este repositorio porque los archivos .json pesan mas de 100 megas. 
+Here we should have the folder bicimad_data with all the files we want to analyze inside.
+Unfortunately, we can not create it in this repository, as the json files that we have used exceed the weight limit of github. 
+ 
